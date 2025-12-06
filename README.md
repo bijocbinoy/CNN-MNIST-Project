@@ -21,7 +21,7 @@ This project features a beginner-friendly tutorial on Convolutional Neural Netwo
    * Train the CNN model  
    * Generate plots
   
-# Dataset
+## Dataset
 **MNIST dataset**: 70,000 grayscale images of handwritten digits (0–9), 28×28 pixels. Loaded directly using TensorFlow/Keras.
 
 ## References
