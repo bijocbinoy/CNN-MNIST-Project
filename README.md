@@ -1,4 +1,4 @@
-## Convolutional Neural Networks (CNN)  Tutorial & Implementation
+## Convolutional Neural Networks (CNN)  Tutorial
 **Author:** Bijo Cheriyan Binoy  
 **Course:** MSc Data Science  
 **Student ID:** 24084036  
