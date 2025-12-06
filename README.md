@@ -1,4 +1,9 @@
 ## Convolutional Neural Networks (CNN)  Tutorial & Implementation
+**Author:** Bijo Cheriyan Binoy  
+**Course:** MSc Data Science  
+**Student ID:** 24084036  
+
+## Overview
 This is the repository that has the entire tutorial, code, and supporting files used in the assignment project on Convolutional Neural Networks (CNNs).
 It includes:
 * A PDF that explains CNN concepts
